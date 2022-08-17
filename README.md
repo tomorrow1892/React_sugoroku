@@ -1,0 +1,2 @@
+# React_sugoroku
+すごろくゲームをreactで実装するお試しプロジェクト
